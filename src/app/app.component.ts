@@ -7,8 +7,6 @@ import { TranslateService } from "@ngx-translate/core";
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  title = "Translation app";
-
   user = {
     name: "Tarun",
     age: 27
